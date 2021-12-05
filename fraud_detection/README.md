@@ -170,6 +170,8 @@ The final profit was very positive once **I added Spark, FastAPI, Docker and Pow
 
 **How to use FastAPI to create validation of user's requests and make API less error-prone**
 
+**How to save and extract data from a MongoDB database (with APIs requests saved on a database, we can analyse and improve ML performance in the future).**
+
 **Focus on the business solution to overcome the challenges of using different tools throughout the project**
 
 **On the first project cycle, it's important to keep things simple and try not to get the best solution because this will only be achieved through many project cycles.**
