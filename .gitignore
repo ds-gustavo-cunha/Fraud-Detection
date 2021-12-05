@@ -1,0 +1,8 @@
+Pipfile
+Pipfile.lock
+*.csv
+fraud_detection/src/features/*
+fraud_detection/src/models/*
+fraud_detection/src/notebooks/*
+
+
