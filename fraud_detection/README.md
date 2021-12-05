@@ -133,19 +133,18 @@ Choose the best values for the chosen parameters of the selected ML model.
 ## Step 11. Performance Evaluation and Interpretation
 Get learning, generalization and business performance metrics with the tuned machine learning model. 
 
-
-## Step 13. Deployment:
+## Step 12. Deployment:
 Plan deployment architecture. Test API, docker container and MongoDB database connection. Then, plan reporting dashboard.
 
 # **TOP 3 INSIGHTS**
 
 - **On 98% of the frauds, the final origin balance is zero.** 
 - **On 96% of the frauds, the initial origin balance is more than 10,000.**
-- **on 94% of the frauds, the transaction amount is more than 20,000.**
+- **On 94% of the frauds, the transaction amount is more than 20,000.**
 
 # **BUSINESS SOLUTION**
 
-**You can check the whole solution architecture for this project at the following image**
+**Below, you can check the whole solution architecture for this project:**
 
 ![deployment-architecture](img/fraud_detection_deploy_architecture.png)
 
