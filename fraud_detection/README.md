@@ -49,6 +49,8 @@ https://www.kaggle.com/ntnu-testimon/paysim1
 
 *-> The currency of all transactions is in the Brazilian real (assumption needed for revenue, loss and profit estimations).*
 
+*-> Revenue, loss and profit estimations were based on the difference between the origin balance before and after the transaction, that is, new_balance_orig - old_balance_orig.*
+
 # **SOLUTION STRATEGY**
 
 ![IoT-method](img/IoT_method.png)
